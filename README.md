@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-using-css-grid-oYrk78PVMG)
 - [Live site URL](https://f9f6ee.github.io/3-column-preview-card-component-FM/)
 
 ## My process
