@@ -28,7 +28,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 - [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)](https://f9f6ee.github.io/3-column-preview-card-component-FM/)
+- [Live site URL](https://f9f6ee.github.io/3-column-preview-card-component-FM/)
 
 ## My process
 
